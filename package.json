@@ -1,7 +1,7 @@
 {
-  "name": "beths-drum-kit",
+  "name": "drum-kit-completed",
   "version": "1.0.0",
-  "description": "",
+  "description": "Lesson about listening for key events and transitionend events, as well as playing audio.",
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
